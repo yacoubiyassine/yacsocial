@@ -1,0 +1,12 @@
+@media screen (max-width: 550px) and(min-width: (400px)) {
+    .bloc{
+      width: 800p;
+    }
+  }
+
+
+
+.homeContainer{
+    display: flex;
+    width: 100%;
+}
